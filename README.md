@@ -1,5 +1,5 @@
-# media
-Personalisation for (Public) Media - ADS Master
+# Personalisation for (Public) Media - ADS Master
+# Focus on Recommender Systems
 
 # Content
 
